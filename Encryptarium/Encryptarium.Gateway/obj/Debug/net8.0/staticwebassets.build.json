@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "D560rY8hPF7B+dj/45fM5/vGp7WxVCwKPKVYh86DhNA=",
+  "Source": "Encryptarium.Gateway",
+  "BasePath": "_content/Encryptarium.Gateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

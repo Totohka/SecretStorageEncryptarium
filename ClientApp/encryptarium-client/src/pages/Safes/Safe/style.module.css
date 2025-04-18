@@ -1,0 +1,106 @@
+.container{
+    width: 100%;
+}
+.header{
+    font-weight: 500;
+    text-align: left;
+    font-size: 20px;
+    padding-left: 15px;
+    border-bottom: 1px solid #868686;
+    padding-bottom: 15px;
+}
+.module{
+    padding: 0px 25px;
+}
+.module_container_manage{
+    display: flex;
+    font-size: 18px;
+    border-bottom: 1px solid #868686;
+    padding: 5px 0;
+    margin-top: 15px;
+    align-items: flex-start;
+    /* justify-content: flex-end; */
+}
+.module_container{
+    display: flex;
+    font-size: 18px;
+    border-bottom: 1px solid #868686;
+    padding: 5px 0;
+    margin-top: 15px;
+    align-items: flex-start;
+}
+.module_value_manage{
+    display: flex;
+    justify-content: flex-end;
+    width: 70%;
+    text-align: end;
+}
+.popup_content_button{
+    display: flex;
+    width: max-content;
+    gap: 8px;
+    margin-top: 16px;
+    padding-top: 16px;
+    border-top: 4px solid #868686;
+}
+.popup{
+    background-color: #c4cde5;
+    color: rgb(0, 0, 0);
+    border: 2px solid #000000;
+    border-radius: 10px;
+    padding: 4%;
+    width: 25vw;
+}
+.module_value{
+    width: 70%;
+    text-align: end;
+}
+.module_icon{
+    width: 20px;
+    margin-right: 0;
+    margin-left: auto;
+}
+.module_header{
+    font-weight: 500;
+    text-align: left;
+    width: 20%;
+}
+.link{
+    color:#000000;
+    margin-top: 15px;
+    text-decoration: none;
+}
+.link:hover{
+    color:#000000;
+    margin-top: 15px;
+    text-decoration:1px solid #000000;
+}
+.buttons{
+    border-bottom: 1px solid #868686;
+    margin: 15px 25px;
+    display: flex;
+    justify-content: space-around;
+}
+.button{
+    font-family: inherit;
+    font-size: 18px;
+    width: 30%;
+    border: none;
+    background-color: #D1D6E4;
+}
+.button:hover, .active{
+    border-bottom: 3px solid #868686;
+}
+.modele_container_pagination{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.module_container_filter{
+    display: flex;
+    font-size: 18px;
+    border-bottom: 1px solid #868686;
+    /* padding: 5px 0; */
+    /* margin-top: 15px; */
+    align-items: end;
+}

@@ -1,0 +1,49 @@
+<svg width="50.000000" height="54.000000" viewBox="0 0 50 54" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip29_293">
+			<rect id="Сейф" width="40.000000" height="40.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<filter id="filter_29_286_dd" x="13.692261" y="20.620605" width="36.307739" height="33.379395" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="4"/>
+			<feGaussianBlur stdDeviation="1.33333"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+		<clipPath id="clip29_286">
+			<rect id="Ветвь" width="28.307692" height="25.379311" transform="translate(17.692261 20.620605)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip29_293)">
+		<path id="path" d="M33.91 3.37L5.78 3.37C4.41 3.37 3.3 4.51 3.3 5.91L3.3 34.62C3.3 36.02 4.41 37.15 5.78 37.15L33.91 37.15C35.28 37.15 36.39 36.02 36.39 34.62L36.39 5.91C36.39 4.51 35.28 3.37 33.91 3.37Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+		<path id="path" d="M5.78 3.37C4.41 3.37 3.3 4.51 3.3 5.91L3.3 34.62C3.3 36.02 4.41 37.15 5.78 37.15L33.91 37.15C35.28 37.15 36.39 36.02 36.39 34.62L36.39 5.91C36.39 4.51 35.28 3.37 33.91 3.37L5.78 3.37Z" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+		<path id="path" d="M9.92 11.82C10.83 11.82 11.57 11.06 11.57 10.13C11.57 9.2 10.83 8.44 9.92 8.44C9.01 8.44 8.27 9.2 8.27 10.13C8.27 11.06 9.01 11.82 9.92 11.82Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="path" d="M9.92 32.09C10.83 32.09 11.57 31.33 11.57 30.4C11.57 29.46 10.83 28.71 9.92 28.71C9.01 28.71 8.27 29.46 8.27 30.4C8.27 31.33 9.01 32.09 9.92 32.09Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="path" d="M29.77 11.82C30.68 11.82 31.42 11.06 31.42 10.13C31.42 9.2 30.68 8.44 29.77 8.44C28.86 8.44 28.12 9.2 28.12 10.13C28.12 11.06 28.86 11.82 29.77 11.82Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="path" d="M29.77 32.09C30.68 32.09 31.42 31.33 31.42 30.4C31.42 29.46 30.68 28.71 29.77 28.71C28.86 28.71 28.12 29.46 28.12 30.4C28.12 31.33 28.86 32.09 29.77 32.09Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="path" d="M19.84 27.86C23.96 27.86 27.29 24.46 27.29 20.26C27.29 16.07 23.96 12.66 19.84 12.66C15.73 12.66 12.4 16.07 12.4 20.26C12.4 24.46 15.73 27.86 19.84 27.86Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+		<path id="path" d="M27.29 20.26C27.29 16.07 23.96 12.66 19.84 12.66C15.73 12.66 12.4 16.07 12.4 20.26C12.4 24.46 15.73 27.86 19.84 27.86C23.96 27.86 27.29 24.46 27.29 20.26Z" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+	</g>
+	<g filter="url(#filter_29_286_dd)">
+		<g clip-path="url(#clip29_286)">
+			<path id="path" d="M31.11 28.57L31.09 28.55C31.09 28.13 31.42 27.8 31.84 27.8C32.26 27.8 32.59 28.13 32.59 28.55L32.57 28.57L31.11 28.57ZM32.57 38.04L32.59 38.06C32.59 38.48 32.26 38.81 31.84 38.81C31.42 38.81 31.09 38.48 31.09 38.06L31.11 38.04L32.57 38.04Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+			<path id="path" d="M31.84 28.55L31.84 38.06" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+			<rect id="rect" x="23.589722" y="25.379395" width="16.512819" height="3.172414" fill="#FFFFFF" fill-opacity="1.000000"/>
+			<rect id="rect" x="23.589722" y="25.379395" width="16.512819" height="3.172414" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+			<path id="path" d="M22.95 38.03L22.95 38.05C22.66 38.36 22.19 38.37 21.89 38.08C21.58 37.79 21.57 37.32 21.86 37.02L21.89 37.02L22.95 38.03ZM41.79 37.02L41.82 37.02C42.11 37.32 42.1 37.79 41.8 38.08C41.49 38.37 41.03 38.36 40.74 38.05L40.74 38.03L41.79 37.02Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+			<path id="path" d="M22.41 37.54L25.94 33.83L37.72 33.83L41.28 37.54" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+			<rect id="rect" x="20.051270" y="38.068848" width="4.717949" height="4.229885" fill="#FFFFFF" fill-opacity="1.000000"/>
+			<rect id="rect" x="20.051270" y="38.068848" width="4.717949" height="4.229885" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+			<rect id="rect" x="29.487183" y="38.068848" width="4.717949" height="4.229885" fill="#FFFFFF" fill-opacity="1.000000"/>
+			<rect id="rect" x="29.487183" y="38.068848" width="4.717949" height="4.229885" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+			<rect id="rect" x="38.923096" y="38.068848" width="4.717949" height="4.229885" fill="#FFFFFF" fill-opacity="1.000000"/>
+			<rect id="rect" x="38.923096" y="38.068848" width="4.717949" height="4.229885" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+		</g>
+	</g>
+</svg>

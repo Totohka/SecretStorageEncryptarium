@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\Encryptarium.Auth</_PublishTargetUrl>
+    <History>True|2025-01-24T14:16:06.6861191Z||;True|2025-01-24T20:22:18.1601485+07:00||;False|2025-01-24T20:21:20.2532258+07:00||;True|2024-12-24T23:51:33.6199252+07:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

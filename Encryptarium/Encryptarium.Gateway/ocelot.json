@@ -1,0 +1,23 @@
+﻿{
+  "Routes": [
+    // API Auth configure 
+    //---------------------------------------------------------------
+    {
+      "UpstreamPathTemplate": "/api/v1/Auth",
+      "UpstreamHttpMethod": [ "Get", "Post" ],
+
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 8085
+        }
+      ],
+      "DownstreamPathTemplate": "/api/Auth"
+    }
+    //---------------------------------------------------------------
+
+    // API Chats configure 
+    //---------------------------------------------------------------
+  ]
+}

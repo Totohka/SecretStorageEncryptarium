@@ -1,0 +1,600 @@
+[
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.RoleController",
+    "Method": "GetAllRole",
+    "RelativePath": "api/v1/Role",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.RoleController",
+    "Method": "GetRole",
+    "RelativePath": "api/v1/Role/{roleUid}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "roleUid",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.RoleController",
+    "Method": "DeactivateRole",
+    "RelativePath": "api/v1/Role/{roleUid}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "roleUid",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.RoleController",
+    "Method": "DeleteRole",
+    "RelativePath": "api/v1/Role/{roleUid}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "roleUid",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.RoleController",
+    "Method": "CreateGroupRoleAndStorage",
+    "RelativePath": "api/v1/Role/CreateGroupRoleAndStorage",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "groupRoleDTO",
+        "Type": "BusinessLogic.Entities.GroupRoleDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.RoleController",
+    "Method": "CreateRole",
+    "RelativePath": "api/v1/Role/CreateRole",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createRoleDTO",
+        "Type": "Encryptarium.Access.Entities.DTOs.CreateRoleDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.RoleController",
+    "Method": "UpdateRole",
+    "RelativePath": "api/v1/Role/UpdateRole",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateRoleDTO",
+        "Type": "Encryptarium.Access.Entities.DTOs.UpdateRoleDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.RoleTypeController",
+    "Method": "GetAllRoleType",
+    "RelativePath": "api/v1/RoleType",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.RoleTypeController",
+    "Method": "CreateRoleType",
+    "RelativePath": "api/v1/RoleType",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createRoleTypeDTO",
+        "Type": "Encryptarium.Access.Entities.DTOs.CreateRoleTypeDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.RoleTypeController",
+    "Method": "UpdateRoleType",
+    "RelativePath": "api/v1/RoleType",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateRoleTypeDTO",
+        "Type": "Encryptarium.Access.Entities.DTOs.UpdateRoleTypeDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.RoleTypeController",
+    "Method": "GetRoleType",
+    "RelativePath": "api/v1/RoleType/{roleTypeUid}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "roleTypeUid",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.RoleTypeController",
+    "Method": "DeactivateRoleType",
+    "RelativePath": "api/v1/RoleType/{roleTypeUid}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "roleTypeUid",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.RoleTypeController",
+    "Method": "DeleteRoleType",
+    "RelativePath": "api/v1/RoleType/{roleTypeUid}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "roleTypeUid",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.SecretPolicyController",
+    "Method": "GetAllSecretPolicy",
+    "RelativePath": "api/v1/SecretPolicy",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.SecretPolicyController",
+    "Method": "UpdateSecretPolicy",
+    "RelativePath": "api/v1/SecretPolicy",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateSecretPolicyDTO",
+        "Type": "Encryptarium.Access.Entities.DTOs.UpdateSecretPolicyDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.SecretPolicyController",
+    "Method": "GetSecretPolicy",
+    "RelativePath": "api/v1/SecretPolicy/{secretPolicyUid}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "secretPolicyUid",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.SecretPolicyController",
+    "Method": "DeactivateSecretPolicy",
+    "RelativePath": "api/v1/SecretPolicy/{secretPolicyUid}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "secretPolicyUid",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.SecretPolicyController",
+    "Method": "DeleteSecretPolicy",
+    "RelativePath": "api/v1/SecretPolicy/{secretPolicyUid}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "secretPolicyUid",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.SecretPolicyController",
+    "Method": "GetSecretLinkPolicy",
+    "RelativePath": "api/v1/SecretPolicy/{secretUid}/{roleUid}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "secretUid",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "roleUid",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.SecretPolicyController",
+    "Method": "CreateLink",
+    "RelativePath": "api/v1/SecretPolicy/CreateLink",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createLinkSecretDTO",
+        "Type": "Encryptarium.Access.Entities.DTOs.CreateLinkSecretDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.SecretPolicyController",
+    "Method": "CreateSecretPolicy",
+    "RelativePath": "api/v1/SecretPolicy/CreateSecretPolicy",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createSecretPolicyDTO",
+        "Type": "Encryptarium.Access.Entities.DTOs.CreateSecretPolicyDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.StoragePolicyController",
+    "Method": "GetAllStoragePolicy",
+    "RelativePath": "api/v1/StoragePolicy",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.StoragePolicyController",
+    "Method": "UpdateStoragePolicy",
+    "RelativePath": "api/v1/StoragePolicy",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateStoragePolicyDTO",
+        "Type": "Encryptarium.Access.Entities.DTOs.UpdateStoragePolicyDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.StoragePolicyController",
+    "Method": "GetStoragePolicy",
+    "RelativePath": "api/v1/StoragePolicy/{storagePolicyUid}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "storagePolicyUid",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.StoragePolicyController",
+    "Method": "DeactivateStoragePolicy",
+    "RelativePath": "api/v1/StoragePolicy/{storagePolicyUid}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "storagePolicyUid",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.StoragePolicyController",
+    "Method": "DeleteStoragePolicy",
+    "RelativePath": "api/v1/StoragePolicy/{storagePolicyUid}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "storagePolicyUid",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.StoragePolicyController",
+    "Method": "GetStorageLinkPolicy",
+    "RelativePath": "api/v1/StoragePolicy/{storageUid}/{roleUid}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "storageUid",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "roleUid",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.StoragePolicyController",
+    "Method": "CreateLink",
+    "RelativePath": "api/v1/StoragePolicy/CreateLink",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createLinkStorageDTO",
+        "Type": "Encryptarium.Access.Entities.DTOs.CreateLinkStorageDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.StoragePolicyController",
+    "Method": "CreateStoragePolicy",
+    "RelativePath": "api/v1/StoragePolicy/CreateStoragePolicy",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createStoragePolicyDTO",
+        "Type": "Encryptarium.Access.Entities.DTOs.CreateStoragePolicyDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.UserRightController",
+    "Method": "ChangeAccessForGroupStorage",
+    "RelativePath": "api/v1/UserRight/ChangeAccessForGroupStorage",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "storageUid",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "dto",
+        "Type": "BusinessLogic.Entities.ChangeAccessForGroupStorageDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.UserRightController",
+    "Method": "GetRightForSecret",
+    "RelativePath": "api/v1/UserRight/GetRightForSecret",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "secretUid",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.UserRightController",
+    "Method": "GetRightForStorage",
+    "RelativePath": "api/v1/UserRight/GetRightForStorage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "storageUid",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.UserRightController",
+    "Method": "GetRightSecret",
+    "RelativePath": "api/v1/UserRight/GetRightSecret",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.UserRightController",
+    "Method": "GetRightStorage",
+    "RelativePath": "api/v1/UserRight/GetRightStorage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.UserRightController",
+    "Method": "GetRightUserForStorage",
+    "RelativePath": "api/v1/UserRight/GetRightUserForStorage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userUid",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "storageUid",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.UserRightController",
+    "Method": "SharingSecretForUser",
+    "RelativePath": "api/v1/UserRight/SharingSecretForUser",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateRightUserDTO",
+        "Type": "Encryptarium.Access.Entities.DTOs.UpdateRightUserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.UserRightController",
+    "Method": "SharingStorageForUser",
+    "RelativePath": "api/v1/UserRight/SharingStorageForUser",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateRightUserDTO",
+        "Type": "Encryptarium.Access.Entities.DTOs.UpdateRightUserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Access.Controllers.UserRightController",
+    "Method": "UpdateUserRightAsync",
+    "RelativePath": "api/v1/UserRight/UpdateUserRightAsync",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateRightUserDTO",
+        "Type": "Encryptarium.Access.Entities.DTOs.UpdateRightUserDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

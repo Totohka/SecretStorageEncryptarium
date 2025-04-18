@@ -1,0 +1,334 @@
+[
+  {
+    "ContainingType": "Encryptarium.Storage.Controllers.AdminKeyController",
+    "Method": "CreateAdminKeys",
+    "RelativePath": "api/v1/AdminKey/CreateAdminKeys",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Storage.Controllers.AdminKeyController",
+    "Method": "RemoveAdminKeys",
+    "RelativePath": "api/v1/AdminKey/RemoveAdminKeys",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Storage.Controllers.AdminKeyController",
+    "Method": "SetAdminKey",
+    "RelativePath": "api/v1/AdminKey/SetAdminKey",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "value",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Storage.Controllers.SecretController",
+    "Method": "Create",
+    "RelativePath": "api/v1/Secret",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "secretDTO",
+        "Type": "BusinessLogic.Entities.SecretDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Storage.Controllers.SecretController",
+    "Method": "Get",
+    "RelativePath": "api/v1/Secret/{secretUid}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "secretUid",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Storage.Controllers.SecretController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/Secret/{secretUid}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "secretUid",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Storage.Controllers.SecretController",
+    "Method": "Update",
+    "RelativePath": "api/v1/Secret/{secretUid}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "secretUid",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "secretDTO",
+        "Type": "BusinessLogic.Entities.SecretDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Storage.Controllers.SecretController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/Secret/all/{storageUid}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "storageUid",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Storage.Controllers.StorageController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/Storage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Storage.Controllers.StorageController",
+    "Method": "Create",
+    "RelativePath": "api/v1/Storage",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "storageDTO",
+        "Type": "Encryptarium.Storage.Entities.DTOs.StorageDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Storage.Controllers.StorageController",
+    "Method": "Get",
+    "RelativePath": "api/v1/Storage/{storageUid}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "storageUid",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Storage.Controllers.StorageController",
+    "Method": "Delete",
+    "RelativePath": "api/v1/Storage/{storageUid}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "storageUid",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Storage.Controllers.StorageController",
+    "Method": "Update",
+    "RelativePath": "api/v1/Storage/{storageUid}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "storageUid",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "storageDTO",
+        "Type": "Encryptarium.Storage.Entities.DTOs.StorageDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Storage.Controllers.StorageController",
+    "Method": "GetStorageCommon",
+    "RelativePath": "api/v1/Storage/common",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Storage.Controllers.StorageController",
+    "Method": "GetStorageUser",
+    "RelativePath": "api/v1/Storage/my",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Storage.Controllers.UserController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/User",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filterUser",
+        "Type": "BusinessLogic.Entities.FilterUser",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Storage.Controllers.UserController",
+    "Method": "GetByUid",
+    "RelativePath": "api/v1/User/{uid}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "uid",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Storage.Controllers.UserController",
+    "Method": "ChangeEmail",
+    "RelativePath": "api/v1/User/change/email/{email}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Storage.Controllers.UserController",
+    "Method": "ChangeLogin",
+    "RelativePath": "api/v1/User/change/login/{login}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Storage.Controllers.UserController",
+    "Method": "GetAllForAdmin",
+    "RelativePath": "api/v1/User/GetAllForAdmin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filterUser",
+        "Type": "BusinessLogic.Entities.FilterUser",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Storage.Controllers.UserController",
+    "Method": "GetMe",
+    "RelativePath": "api/v1/User/GetMe",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Storage.Controllers.UserController",
+    "Method": "GetUsersByStorage",
+    "RelativePath": "api/v1/User/GetUsersByStorage",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "storageUid",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

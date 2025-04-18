@@ -1,0 +1,23 @@
+.main_container{
+    width: 100%;
+    display: flex;
+    height: -webkit-fill-available;
+    flex-direction: column;
+}
+.buttons{
+    border-bottom: 1px solid #868686;
+    margin: 15px 25px;
+    display: flex;
+    justify-content: space-around;
+    /* width: 70vw; */
+}
+.button{
+    font-family: inherit;
+    font-size: 18px;
+    width: 30%;
+    border: none;
+    background-color: #D1D6E4;
+}
+.button:hover, .active{
+    border-bottom: 3px solid #868686;
+}

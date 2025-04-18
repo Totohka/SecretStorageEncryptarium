@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'AldrichCyrillic';
+	src: url('./fonts/aldrichcyrillic.eot'); /* IE 9 Compatibility Mode */
+	src: url('./fonts/aldrichcyrillic.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('./fonts/aldrichcyrillic.woff2') format('woff2'), /* Super Modern Browsers */
+		url('./fonts/aldrichcyrillic.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('./fonts/aldrichcyrillic.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('./fonts/aldrichcyrillic.svg#aldrichcyrillic') format('svg'); /* Chrome < 4, Legacy iOS */
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "Encryptarium.Audit.Controllers.AuditController",
+    "Method": "GetAllRecords",
+    "RelativePath": "api/v1/Audit",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filterAttributeAudit",
+        "Type": "BusinessLogic.Entities.FilterAttributeAudit",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Audit.Controllers.AuditController",
+    "Method": "GetRecord",
+    "RelativePath": "api/v1/Audit/{uid}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "uid",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Audit.Controllers.AuditController",
+    "Method": "GetAllRecordsForAdmin",
+    "RelativePath": "api/v1/Audit/GetAllRecordsForAdmin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "filterAttributeAudit",
+        "Type": "BusinessLogic.Entities.FilterAttributeAudit",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

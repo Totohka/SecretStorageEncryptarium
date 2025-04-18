@@ -1,0 +1,1145 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3256688C-0D3E-4DBD-AB5F-8325538BAC2E}|Encryptarium.Storage\\Encryptarium.Storage.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\encryptarium.storage\\controllers\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3256688C-0D3E-4DBD-AB5F-8325538BAC2E}|Encryptarium.Storage\\Encryptarium.Storage.csproj|solutionrelative:encryptarium.storage\\controllers\\storagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3256688C-0D3E-4DBD-AB5F-8325538BAC2E}|Encryptarium.Storage\\Encryptarium.Storage.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\encryptarium.storage\\controllers\\base\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3256688C-0D3E-4DBD-AB5F-8325538BAC2E}|Encryptarium.Storage\\Encryptarium.Storage.csproj|solutionrelative:encryptarium.storage\\controllers\\base\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3256688C-0D3E-4DBD-AB5F-8325538BAC2E}|Encryptarium.Storage\\Encryptarium.Storage.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\encryptarium.storage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3256688C-0D3E-4DBD-AB5F-8325538BAC2E}|Encryptarium.Storage\\Encryptarium.Storage.csproj|solutionrelative:encryptarium.storage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE68ABA-35C9-4370-A6AF-19E8D470BFFB}|DAL\\DAL.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\dal\\repositories\\base\\implementation\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE68ABA-35C9-4370-A6AF-19E8D470BFFB}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\base\\implementation\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\services\\services\\storages\\implementation\\storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|solutionrelative:services\\services\\storages\\implementation\\storageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB57A0EE-9032-41A9-958B-F6D806BED2F7}|Encryptarium.Auth\\Encryptarium.Auth.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\encryptarium.auth\\controllers\\apikeycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB57A0EE-9032-41A9-958B-F6D806BED2F7}|Encryptarium.Auth\\Encryptarium.Auth.csproj|solutionrelative:encryptarium.auth\\controllers\\apikeycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB57A0EE-9032-41A9-958B-F6D806BED2F7}|Encryptarium.Auth\\Encryptarium.Auth.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\encryptarium.auth\\controllers\\userpasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB57A0EE-9032-41A9-958B-F6D806BED2F7}|Encryptarium.Auth\\Encryptarium.Auth.csproj|solutionrelative:encryptarium.auth\\controllers\\userpasscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB57A0EE-9032-41A9-958B-F6D806BED2F7}|Encryptarium.Auth\\Encryptarium.Auth.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\encryptarium.auth\\controllers\\oauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB57A0EE-9032-41A9-958B-F6D806BED2F7}|Encryptarium.Auth\\Encryptarium.Auth.csproj|solutionrelative:encryptarium.auth\\controllers\\oauthcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3256688C-0D3E-4DBD-AB5F-8325538BAC2E}|Encryptarium.Storage\\Encryptarium.Storage.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\encryptarium.storage\\middlewares\\notificationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3256688C-0D3E-4DBD-AB5F-8325538BAC2E}|Encryptarium.Storage\\Encryptarium.Storage.csproj|solutionrelative:encryptarium.storage\\middlewares\\notificationmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3256688C-0D3E-4DBD-AB5F-8325538BAC2E}|Encryptarium.Storage\\Encryptarium.Storage.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\encryptarium.storage\\middlewares\\corsmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3256688C-0D3E-4DBD-AB5F-8325538BAC2E}|Encryptarium.Storage\\Encryptarium.Storage.csproj|solutionrelative:encryptarium.storage\\middlewares\\corsmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3256688C-0D3E-4DBD-AB5F-8325538BAC2E}|Encryptarium.Storage\\Encryptarium.Storage.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\encryptarium.storage\\middlewares\\monitoringmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3256688C-0D3E-4DBD-AB5F-8325538BAC2E}|Encryptarium.Storage\\Encryptarium.Storage.csproj|solutionrelative:encryptarium.storage\\middlewares\\monitoringmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F2154D-B3B9-443D-B6C3-97D0E4643361}|Model\\Model.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\model\\enums\\entitiesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04F2154D-B3B9-443D-B6C3-97D0E4643361}|Model\\Model.csproj|solutionrelative:model\\enums\\entitiesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F2154D-B3B9-443D-B6C3-97D0E4643361}|Model\\Model.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\model\\enums\\partrequestenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04F2154D-B3B9-443D-B6C3-97D0E4643361}|Model\\Model.csproj|solutionrelative:model\\enums\\partrequestenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F2154D-B3B9-443D-B6C3-97D0E4643361}|Model\\Model.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\model\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04F2154D-B3B9-443D-B6C3-97D0E4643361}|Model\\Model.csproj|solutionrelative:model\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F2154D-B3B9-443D-B6C3-97D0E4643361}|Model\\Model.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\model\\entities\\apikey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04F2154D-B3B9-443D-B6C3-97D0E4643361}|Model\\Model.csproj|solutionrelative:model\\entities\\apikey.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB57A0EE-9032-41A9-958B-F6D806BED2F7}|Encryptarium.Auth\\Encryptarium.Auth.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\encryptarium.auth\\entities\\dtos\\userpassdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB57A0EE-9032-41A9-958B-F6D806BED2F7}|Encryptarium.Auth\\Encryptarium.Auth.csproj|solutionrelative:encryptarium.auth\\entities\\dtos\\userpassdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB57A0EE-9032-41A9-958B-F6D806BED2F7}|Encryptarium.Auth\\Encryptarium.Auth.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\encryptarium.auth\\entities\\dtos\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB57A0EE-9032-41A9-958B-F6D806BED2F7}|Encryptarium.Auth\\Encryptarium.Auth.csproj|solutionrelative:encryptarium.auth\\entities\\dtos\\registrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\services\\services\\roles\\implementation\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|solutionrelative:services\\services\\roles\\implementation\\roleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB57A0EE-9032-41A9-958B-F6D806BED2F7}|Encryptarium.Auth\\Encryptarium.Auth.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\encryptarium.auth\\controllers\\whiteipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB57A0EE-9032-41A9-958B-F6D806BED2F7}|Encryptarium.Auth\\Encryptarium.Auth.csproj|solutionrelative:encryptarium.auth\\controllers\\whiteipcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\services\\services\\ips\\implementation\\ipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|solutionrelative:services\\services\\ips\\implementation\\ipservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3256688C-0D3E-4DBD-AB5F-8325538BAC2E}|Encryptarium.Storage\\Encryptarium.Storage.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\encryptarium.storage\\controllers\\adminkeycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3256688C-0D3E-4DBD-AB5F-8325538BAC2E}|Encryptarium.Storage\\Encryptarium.Storage.csproj|solutionrelative:encryptarium.storage\\controllers\\adminkeycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\services\\services\\apikeys\\implemention\\apikeyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|solutionrelative:services\\services\\apikeys\\implemention\\apikeyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\services\\services\\apikeys\\interface\\iapikeyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|solutionrelative:services\\services\\apikeys\\interface\\iapikeyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46084D4-FB63-4496-9F27-9AB1DF6D318C}|Encryptarium.Audit\\Encryptarium.Audit.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\encryptarium.audit\\controllers\\auditcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46084D4-FB63-4496-9F27-9AB1DF6D318C}|Encryptarium.Audit\\Encryptarium.Audit.csproj|solutionrelative:encryptarium.audit\\controllers\\auditcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3256688C-0D3E-4DBD-AB5F-8325538BAC2E}|Encryptarium.Storage\\Encryptarium.Storage.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\encryptarium.storage\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3256688C-0D3E-4DBD-AB5F-8325538BAC2E}|Encryptarium.Storage\\Encryptarium.Storage.csproj|solutionrelative:encryptarium.storage\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\services\\services\\users\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|solutionrelative:services\\services\\users\\implementation\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\services\\services\\users\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|solutionrelative:services\\services\\users\\interface\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\services\\services\\notificationsenders\\botwebnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|solutionrelative:services\\services\\notificationsenders\\botwebnotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB57A0EE-9032-41A9-958B-F6D806BED2F7}|Encryptarium.Auth\\Encryptarium.Auth.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\encryptarium.auth\\controllers\\refreshtokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB57A0EE-9032-41A9-958B-F6D806BED2F7}|Encryptarium.Auth\\Encryptarium.Auth.csproj|solutionrelative:encryptarium.auth\\controllers\\refreshtokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\services\\services\\audits\\implementation\\auditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|solutionrelative:services\\services\\audits\\implementation\\auditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\services\\services\\audits\\interface\\iauditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|solutionrelative:services\\services\\audits\\interface\\iauditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F19257-B8B3-4211-A962-4795DA9E2638}|Encryptarium.Access\\Encryptarium.Access.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\encryptarium.access\\controllers\\userrightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F19257-B8B3-4211-A962-4795DA9E2638}|Encryptarium.Access\\Encryptarium.Access.csproj|solutionrelative:encryptarium.access\\controllers\\userrightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F19257-B8B3-4211-A962-4795DA9E2638}|Encryptarium.Access\\Encryptarium.Access.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\encryptarium.access\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F19257-B8B3-4211-A962-4795DA9E2638}|Encryptarium.Access\\Encryptarium.Access.csproj|solutionrelative:encryptarium.access\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F19257-B8B3-4211-A962-4795DA9E2638}|Encryptarium.Access\\Encryptarium.Access.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\encryptarium.access\\controllers\\roletypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F19257-B8B3-4211-A962-4795DA9E2638}|Encryptarium.Access\\Encryptarium.Access.csproj|solutionrelative:encryptarium.access\\controllers\\roletypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\services\\entities\\filterattributeaudit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|solutionrelative:services\\entities\\filterattributeaudit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3256688C-0D3E-4DBD-AB5F-8325538BAC2E}|Encryptarium.Storage\\Encryptarium.Storage.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\encryptarium.storage\\controllers\\telegramcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3256688C-0D3E-4DBD-AB5F-8325538BAC2E}|Encryptarium.Storage\\Encryptarium.Storage.csproj|solutionrelative:encryptarium.storage\\controllers\\telegramcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3256688C-0D3E-4DBD-AB5F-8325538BAC2E}|Encryptarium.Storage\\Encryptarium.Storage.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\encryptarium.storage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3256688C-0D3E-4DBD-AB5F-8325538BAC2E}|Encryptarium.Storage\\Encryptarium.Storage.csproj|solutionrelative:encryptarium.storage\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3256688C-0D3E-4DBD-AB5F-8325538BAC2E}|Encryptarium.Storage\\Encryptarium.Storage.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\encryptarium.storage\\controllers\\secretcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3256688C-0D3E-4DBD-AB5F-8325538BAC2E}|Encryptarium.Storage\\Encryptarium.Storage.csproj|solutionrelative:encryptarium.storage\\controllers\\secretcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\services\\services\\notificationsenders\\entities\\messagenotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|solutionrelative:services\\services\\notificationsenders\\entities\\messagenotification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\services\\services\\notificationsenders\\entities\\messagebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|solutionrelative:services\\services\\notificationsenders\\entities\\messagebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3256688C-0D3E-4DBD-AB5F-8325538BAC2E}|Encryptarium.Storage\\Encryptarium.Storage.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\encryptarium.storage\\handlers\\tokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3256688C-0D3E-4DBD-AB5F-8325538BAC2E}|Encryptarium.Storage\\Encryptarium.Storage.csproj|solutionrelative:encryptarium.storage\\handlers\\tokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\services\\services\\emails\\implementation\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|solutionrelative:services\\services\\emails\\implementation\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\services\\services\\notificationsenders\\commands\\startcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|solutionrelative:services\\services\\notificationsenders\\commands\\startcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\services\\services\\notificationsenders\\commands\\linkcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|solutionrelative:services\\services\\notificationsenders\\commands\\linkcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\services\\services\\notificationsenders\\commands\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|solutionrelative:services\\services\\notificationsenders\\commands\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\services\\services\\twofactorsauth\\implementation\\twofactorauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|solutionrelative:services\\services\\twofactorsauth\\implementation\\twofactorauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE68ABA-35C9-4370-A6AF-19E8D470BFFB}|DAL\\DAL.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\dal\\repositories\\storagelinkpolicies\\implementation\\storagelinkpolicyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE68ABA-35C9-4370-A6AF-19E8D470BFFB}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\storagelinkpolicies\\implementation\\storagelinkpolicyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\services\\services\\roles\\interface\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|solutionrelative:services\\services\\roles\\interface\\iroleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F19257-B8B3-4211-A962-4795DA9E2638}|Encryptarium.Access\\Encryptarium.Access.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\encryptarium.access\\middlewares\\monitoringmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F19257-B8B3-4211-A962-4795DA9E2638}|Encryptarium.Access\\Encryptarium.Access.csproj|solutionrelative:encryptarium.access\\middlewares\\monitoringmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\services\\services\\policies\\implementation\\storagepolicyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|solutionrelative:services\\services\\policies\\implementation\\storagepolicyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F19257-B8B3-4211-A962-4795DA9E2638}|Encryptarium.Access\\Encryptarium.Access.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\encryptarium.access\\handlers\\tokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F19257-B8B3-4211-A962-4795DA9E2638}|Encryptarium.Access\\Encryptarium.Access.csproj|solutionrelative:encryptarium.access\\handlers\\tokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F19257-B8B3-4211-A962-4795DA9E2638}|Encryptarium.Access\\Encryptarium.Access.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\encryptarium.access\\middlewares\\corsmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F19257-B8B3-4211-A962-4795DA9E2638}|Encryptarium.Access\\Encryptarium.Access.csproj|solutionrelative:encryptarium.access\\middlewares\\corsmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\services\\services\\policies\\implementation\\secretpolicyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|solutionrelative:services\\services\\policies\\implementation\\secretpolicyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\services\\services\\policies\\interface\\isecretpolicyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|solutionrelative:services\\services\\policies\\interface\\isecretpolicyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB57A0EE-9032-41A9-958B-F6D806BED2F7}|Encryptarium.Auth\\Encryptarium.Auth.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\encryptarium.auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB57A0EE-9032-41A9-958B-F6D806BED2F7}|Encryptarium.Auth\\Encryptarium.Auth.csproj|solutionrelative:encryptarium.auth\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\services\\services\\tokens\\interface\\iaccesstokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|solutionrelative:services\\services\\tokens\\interface\\iaccesstokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FE68ABA-35C9-4370-A6AF-19E8D470BFFB}|DAL\\DAL.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\dal\\secretcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FE68ABA-35C9-4370-A6AF-19E8D470BFFB}|DAL\\DAL.csproj|solutionrelative:dal\\secretcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F19257-B8B3-4211-A962-4795DA9E2638}|Encryptarium.Access\\Encryptarium.Access.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\encryptarium.access\\controllers\\secretpolicycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F19257-B8B3-4211-A962-4795DA9E2638}|Encryptarium.Access\\Encryptarium.Access.csproj|solutionrelative:encryptarium.access\\controllers\\secretpolicycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F2154D-B3B9-443D-B6C3-97D0E4643361}|Model\\Model.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\model\\enums\\statuscodeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04F2154D-B3B9-443D-B6C3-97D0E4643361}|Model\\Model.csproj|solutionrelative:model\\enums\\statuscodeenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F2154D-B3B9-443D-B6C3-97D0E4643361}|Model\\Model.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\model\\enums\\microservicesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04F2154D-B3B9-443D-B6C3-97D0E4643361}|Model\\Model.csproj|solutionrelative:model\\enums\\microservicesenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04F2154D-B3B9-443D-B6C3-97D0E4643361}|Model\\Model.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\model\\enums\\controllersenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04F2154D-B3B9-443D-B6C3-97D0E4643361}|Model\\Model.csproj|solutionrelative:model\\enums\\controllersenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46084D4-FB63-4496-9F27-9AB1DF6D318C}|Encryptarium.Audit\\Encryptarium.Audit.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\encryptarium.audit\\middlewares\\corsmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46084D4-FB63-4496-9F27-9AB1DF6D318C}|Encryptarium.Audit\\Encryptarium.Audit.csproj|solutionrelative:encryptarium.audit\\middlewares\\corsmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46084D4-FB63-4496-9F27-9AB1DF6D318C}|Encryptarium.Audit\\Encryptarium.Audit.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\encryptarium.audit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E46084D4-FB63-4496-9F27-9AB1DF6D318C}|Encryptarium.Audit\\Encryptarium.Audit.csproj|solutionrelative:encryptarium.audit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25F19257-B8B3-4211-A962-4795DA9E2638}|Encryptarium.Access\\Encryptarium.Access.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\encryptarium.access\\entities\\dtos\\deleteuseringrouproledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F19257-B8B3-4211-A962-4795DA9E2638}|Encryptarium.Access\\Encryptarium.Access.csproj|solutionrelative:encryptarium.access\\entities\\dtos\\deleteuseringrouproledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB57A0EE-9032-41A9-958B-F6D806BED2F7}|Encryptarium.Auth\\Encryptarium.Auth.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\encryptarium.auth\\attributes\\monitoringattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB57A0EE-9032-41A9-958B-F6D806BED2F7}|Encryptarium.Auth\\Encryptarium.Auth.csproj|solutionrelative:encryptarium.auth\\attributes\\monitoringattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|c:\\users\\\u0434\u0438\u043C\u043E\u043D\\desktop\\\u044F\\\u0443\u0447\u0451\u0431\u0430\\\u0434\u0438\u043F\u043B\u043E\u043C\\rep\\encryptarium\\encryptarium\\services\\services\\secrets\\implementation\\secretservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6AF2972-2265-447A-A183-B96C64784081}|Services\\BusinessLogic.csproj|solutionrelative:services\\services\\secrets\\implementation\\secretservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 250,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StorageService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\Storages\\Implementation\\StorageService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\Storages\\Implementation\\StorageService.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\Storages\\Implementation\\StorageService.cs",
+              "RelativeToolTip": "Services\\Services\\Storages\\Implementation\\StorageService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:15:44.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Storage\\Program.cs",
+              "RelativeDocumentMoniker": "Encryptarium.Storage\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Storage\\Program.cs",
+              "RelativeToolTip": "Encryptarium.Storage\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T11:23:58.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StorageController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Storage\\Controllers\\StorageController.cs",
+              "RelativeDocumentMoniker": "Encryptarium.Storage\\Controllers\\StorageController.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Storage\\Controllers\\StorageController.cs",
+              "RelativeToolTip": "Encryptarium.Storage\\Controllers\\StorageController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwCIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T01:57:02.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\DAL\\Repositories\\Base\\Implementation\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Base\\Implementation\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\DAL\\Repositories\\Base\\Implementation\\BaseRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Base\\Implementation\\BaseRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:19:49.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Storage\\Controllers\\Base\\BaseController.cs",
+              "RelativeDocumentMoniker": "Encryptarium.Storage\\Controllers\\Base\\BaseController.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Storage\\Controllers\\Base\\BaseController.cs",
+              "RelativeToolTip": "Encryptarium.Storage\\Controllers\\Base\\BaseController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:38:58.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotificationMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Storage\\Middlewares\\NotificationMiddleware.cs",
+              "RelativeDocumentMoniker": "Encryptarium.Storage\\Middlewares\\NotificationMiddleware.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Storage\\Middlewares\\NotificationMiddleware.cs",
+              "RelativeToolTip": "Encryptarium.Storage\\Middlewares\\NotificationMiddleware.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwDQAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T13:18:34.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OAuthController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Auth\\Controllers\\OAuthController.cs",
+              "RelativeDocumentMoniker": "Encryptarium.Auth\\Controllers\\OAuthController.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Auth\\Controllers\\OAuthController.cs",
+              "RelativeToolTip": "Encryptarium.Auth\\Controllers\\OAuthController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T05:57:53.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserPassController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Auth\\Controllers\\UserPassController.cs",
+              "RelativeDocumentMoniker": "Encryptarium.Auth\\Controllers\\UserPassController.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Auth\\Controllers\\UserPassController.cs",
+              "RelativeToolTip": "Encryptarium.Auth\\Controllers\\UserPassController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwFQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T05:57:57.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApiKeyController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Auth\\Controllers\\ApiKeyController.cs",
+              "RelativeDocumentMoniker": "Encryptarium.Auth\\Controllers\\ApiKeyController.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Auth\\Controllers\\ApiKeyController.cs",
+              "RelativeToolTip": "Encryptarium.Auth\\Controllers\\ApiKeyController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAiwI4AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T10:48:36.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CorsMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Storage\\Middlewares\\CorsMiddleware.cs",
+              "RelativeDocumentMoniker": "Encryptarium.Storage\\Middlewares\\CorsMiddleware.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Storage\\Middlewares\\CorsMiddleware.cs",
+              "RelativeToolTip": "Encryptarium.Storage\\Middlewares\\CorsMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T05:45:59.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MonitoringMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Storage\\Middlewares\\MonitoringMiddleware.cs",
+              "RelativeDocumentMoniker": "Encryptarium.Storage\\Middlewares\\MonitoringMiddleware.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Storage\\Middlewares\\MonitoringMiddleware.cs",
+              "RelativeToolTip": "Encryptarium.Storage\\Middlewares\\MonitoringMiddleware.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:57:27.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EntitiesEnum.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Model\\Enums\\EntitiesEnum.cs",
+              "RelativeDocumentMoniker": "Model\\Enums\\EntitiesEnum.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Model\\Enums\\EntitiesEnum.cs",
+              "RelativeToolTip": "Model\\Enums\\EntitiesEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:10:06.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PartRequestEnum.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Model\\Enums\\PartRequestEnum.cs",
+              "RelativeDocumentMoniker": "Model\\Enums\\PartRequestEnum.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Model\\Enums\\PartRequestEnum.cs",
+              "RelativeToolTip": "Model\\Enums\\PartRequestEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T07:03:01.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Model\\Constants.cs",
+              "RelativeDocumentMoniker": "Model\\Constants.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Model\\Constants.cs",
+              "RelativeToolTip": "Model\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:04:51.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApiKey.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Model\\Entities\\ApiKey.cs",
+              "RelativeDocumentMoniker": "Model\\Entities\\ApiKey.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Model\\Entities\\ApiKey.cs",
+              "RelativeToolTip": "Model\\Entities\\ApiKey.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:04:40.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserpassDTO.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Auth\\Entities\\DTOs\\UserpassDTO.cs",
+              "RelativeDocumentMoniker": "Encryptarium.Auth\\Entities\\DTOs\\UserpassDTO.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Auth\\Entities\\DTOs\\UserpassDTO.cs",
+              "RelativeToolTip": "Encryptarium.Auth\\Entities\\DTOs\\UserpassDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:01:43.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "RegistrationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Auth\\Entities\\DTOs\\RegistrationDTO.cs",
+              "RelativeDocumentMoniker": "Encryptarium.Auth\\Entities\\DTOs\\RegistrationDTO.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Auth\\Entities\\DTOs\\RegistrationDTO.cs",
+              "RelativeToolTip": "Encryptarium.Auth\\Entities\\DTOs\\RegistrationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T18:01:42.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IApiKeyService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\ApiKeys\\Interface\\IApiKeyService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\ApiKeys\\Interface\\IApiKeyService.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\ApiKeys\\Interface\\IApiKeyService.cs",
+              "RelativeToolTip": "Services\\Services\\ApiKeys\\Interface\\IApiKeyService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAASwB0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:09:54.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApiKeyService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\ApiKeys\\Implemention\\ApiKeyService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\ApiKeys\\Implemention\\ApiKeyService.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\ApiKeys\\Implemention\\ApiKeyService.cs",
+              "RelativeToolTip": "Services\\Services\\ApiKeys\\Implemention\\ApiKeyService.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T13:09:49.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WhiteIpController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Auth\\Controllers\\WhiteIpController.cs",
+              "RelativeDocumentMoniker": "Encryptarium.Auth\\Controllers\\WhiteIpController.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Auth\\Controllers\\WhiteIpController.cs",
+              "RelativeToolTip": "Encryptarium.Auth\\Controllers\\WhiteIpController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T05:43:10.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IpService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\Ips\\Implementation\\IpService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\Ips\\Implementation\\IpService.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\Ips\\Implementation\\IpService.cs",
+              "RelativeToolTip": "Services\\Services\\Ips\\Implementation\\IpService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAD4vyUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T05:52:25.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RoleService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\Roles\\Implementation\\RoleService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\Roles\\Implementation\\RoleService.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\Roles\\Implementation\\RoleService.cs",
+              "RelativeToolTip": "Services\\Services\\Roles\\Implementation\\RoleService.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAswIcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T10:47:20.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminKeyController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Storage\\Controllers\\AdminKeyController.cs",
+              "RelativeDocumentMoniker": "Encryptarium.Storage\\Controllers\\AdminKeyController.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Storage\\Controllers\\AdminKeyController.cs",
+              "RelativeToolTip": "Encryptarium.Storage\\Controllers\\AdminKeyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T05:37:41.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "BotWebNotification.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\NotificationSenders\\BotWebNotification.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\NotificationSenders\\BotWebNotification.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\NotificationSenders\\BotWebNotification.cs",
+              "RelativeToolTip": "Services\\Services\\NotificationSenders\\BotWebNotification.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAlwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T04:08:54.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Storage\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Encryptarium.Storage\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Storage\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Encryptarium.Storage\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAFUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T12:03:50.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuditController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Audit\\Controllers\\AuditController.cs",
+              "RelativeDocumentMoniker": "Encryptarium.Audit\\Controllers\\AuditController.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Audit\\Controllers\\AuditController.cs",
+              "RelativeToolTip": "Encryptarium.Audit\\Controllers\\AuditController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T12:26:01.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\Users\\Interface\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\Users\\Interface\\IUserService.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\Users\\Interface\\IUserService.cs",
+              "RelativeToolTip": "Services\\Services\\Users\\Interface\\IUserService.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAlwCQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T10:08:48.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\Users\\Implementation\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\Users\\Implementation\\UserService.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\Users\\Implementation\\UserService.cs",
+              "RelativeToolTip": "Services\\Services\\Users\\Implementation\\UserService.cs",
+              "ViewState": "AgIAADQBAAAAAAAAAAAkwDoBAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T09:47:27.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuditService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\Audits\\Implementation\\AuditService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\Audits\\Implementation\\AuditService.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\Audits\\Implementation\\AuditService.cs",
+              "RelativeToolTip": "Services\\Services\\Audits\\Implementation\\AuditService.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAwHgAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T14:34:19.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IAuditService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\Audits\\Interface\\IAuditService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\Audits\\Interface\\IAuditService.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\Audits\\Interface\\IAuditService.cs",
+              "RelativeToolTip": "Services\\Services\\Audits\\Interface\\IAuditService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T17:41:28.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "RefreshTokenController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Auth\\Controllers\\RefreshTokenController.cs",
+              "RelativeDocumentMoniker": "Encryptarium.Auth\\Controllers\\RefreshTokenController.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Auth\\Controllers\\RefreshTokenController.cs",
+              "RelativeToolTip": "Encryptarium.Auth\\Controllers\\RefreshTokenController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T05:58:09.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserRightController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Access\\Controllers\\UserRightController.cs",
+              "RelativeDocumentMoniker": "Encryptarium.Access\\Controllers\\UserRightController.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Access\\Controllers\\UserRightController.cs",
+              "RelativeToolTip": "Encryptarium.Access\\Controllers\\UserRightController.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAowGkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-01T08:35:18.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Access\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Encryptarium.Access\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Access\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Encryptarium.Access\\Controllers\\RoleController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowD8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:15:01.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RoleTypeController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Access\\Controllers\\RoleTypeController.cs",
+              "RelativeDocumentMoniker": "Encryptarium.Access\\Controllers\\RoleTypeController.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Access\\Controllers\\RoleTypeController.cs",
+              "RelativeToolTip": "Encryptarium.Access\\Controllers\\RoleTypeController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwDIAAACmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:13:00.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TelegramController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Storage\\Controllers\\TelegramController.cs",
+              "RelativeDocumentMoniker": "Encryptarium.Storage\\Controllers\\TelegramController.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Storage\\Controllers\\TelegramController.cs",
+              "RelativeToolTip": "Encryptarium.Storage\\Controllers\\TelegramController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T04:15:05.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FilterAttributeAudit.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Entities\\FilterAttributeAudit.cs",
+              "RelativeDocumentMoniker": "Services\\Entities\\FilterAttributeAudit.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Entities\\FilterAttributeAudit.cs",
+              "RelativeToolTip": "Services\\Entities\\FilterAttributeAudit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T08:44:36.367Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Storage\\appsettings.json",
+              "RelativeDocumentMoniker": "Encryptarium.Storage\\appsettings.json",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Storage\\appsettings.json",
+              "RelativeToolTip": "Encryptarium.Storage\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-01T03:13:36.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SecretController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Storage\\Controllers\\SecretController.cs",
+              "RelativeDocumentMoniker": "Encryptarium.Storage\\Controllers\\SecretController.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Storage\\Controllers\\SecretController.cs",
+              "RelativeToolTip": "Encryptarium.Storage\\Controllers\\SecretController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwC8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T18:35:24.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "MessageNotification.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\NotificationSenders\\Entities\\MessageNotification.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\NotificationSenders\\Entities\\MessageNotification.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\NotificationSenders\\Entities\\MessageNotification.cs",
+              "RelativeToolTip": "Services\\Services\\NotificationSenders\\Entities\\MessageNotification.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T05:06:05.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MessageBase.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\NotificationSenders\\Entities\\MessageBase.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\NotificationSenders\\Entities\\MessageBase.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\NotificationSenders\\Entities\\MessageBase.cs",
+              "RelativeToolTip": "Services\\Services\\NotificationSenders\\Entities\\MessageBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T11:34:53.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "TokenHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Storage\\Handlers\\TokenHandler.cs",
+              "RelativeDocumentMoniker": "Encryptarium.Storage\\Handlers\\TokenHandler.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Storage\\Handlers\\TokenHandler.cs",
+              "RelativeToolTip": "Encryptarium.Storage\\Handlers\\TokenHandler.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAjwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T05:45:59.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "StartCommand.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\NotificationSenders\\Commands\\StartCommand.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\NotificationSenders\\Commands\\StartCommand.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\NotificationSenders\\Commands\\StartCommand.cs",
+              "RelativeToolTip": "Services\\Services\\NotificationSenders\\Commands\\StartCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T02:08:48.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "LinkCommand.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\NotificationSenders\\Commands\\LinkCommand.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\NotificationSenders\\Commands\\LinkCommand.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\NotificationSenders\\Commands\\LinkCommand.cs",
+              "RelativeToolTip": "Services\\Services\\NotificationSenders\\Commands\\LinkCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T02:11:13.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\Emails\\Implementation\\EmailService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\Emails\\Implementation\\EmailService.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\Emails\\Implementation\\EmailService.cs",
+              "RelativeToolTip": "Services\\Services\\Emails\\Implementation\\EmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:20:35.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\NotificationSenders\\Commands\\Command.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\NotificationSenders\\Commands\\Command.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\NotificationSenders\\Commands\\Command.cs",
+              "RelativeToolTip": "Services\\Services\\NotificationSenders\\Commands\\Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T02:12:00.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "TwoFactorAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\TwoFactorsAuth\\Implementation\\TwoFactorAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\TwoFactorsAuth\\Implementation\\TwoFactorAuthService.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\TwoFactorsAuth\\Implementation\\TwoFactorAuthService.cs",
+              "RelativeToolTip": "Services\\Services\\TwoFactorsAuth\\Implementation\\TwoFactorAuthService.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAIBJwDoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-22T01:51:33.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IRoleService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\Roles\\Interface\\IRoleService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\Roles\\Interface\\IRoleService.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\Roles\\Interface\\IRoleService.cs",
+              "RelativeToolTip": "Services\\Services\\Roles\\Interface\\IRoleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:12:02.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "StorageLinkPolicyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\DAL\\Repositories\\StorageLinkPolicies\\Implementation\\StorageLinkPolicyRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\StorageLinkPolicies\\Implementation\\StorageLinkPolicyRepository.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\DAL\\Repositories\\StorageLinkPolicies\\Implementation\\StorageLinkPolicyRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\StorageLinkPolicies\\Implementation\\StorageLinkPolicyRepository.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T08:24:09.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "MonitoringMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Access\\Middlewares\\MonitoringMiddleware.cs",
+              "RelativeDocumentMoniker": "Encryptarium.Access\\Middlewares\\MonitoringMiddleware.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Access\\Middlewares\\MonitoringMiddleware.cs",
+              "RelativeToolTip": "Encryptarium.Access\\Middlewares\\MonitoringMiddleware.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAYwJUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T07:42:43.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "StoragePolicyService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\Policies\\Implementation\\StoragePolicyService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\Policies\\Implementation\\StoragePolicyService.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\Policies\\Implementation\\StoragePolicyService.cs",
+              "RelativeToolTip": "Services\\Services\\Policies\\Implementation\\StoragePolicyService.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAvwIEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T07:51:24.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "TokenHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Access\\Handlers\\TokenHandler.cs",
+              "RelativeDocumentMoniker": "Encryptarium.Access\\Handlers\\TokenHandler.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Access\\Handlers\\TokenHandler.cs",
+              "RelativeToolTip": "Encryptarium.Access\\Handlers\\TokenHandler.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T02:53:27.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "CorsMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Access\\Middlewares\\CorsMiddleware.cs",
+              "RelativeDocumentMoniker": "Encryptarium.Access\\Middlewares\\CorsMiddleware.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Access\\Middlewares\\CorsMiddleware.cs",
+              "RelativeToolTip": "Encryptarium.Access\\Middlewares\\CorsMiddleware.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAawBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T09:59:01.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "SecretPolicyService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\Policies\\Implementation\\SecretPolicyService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\Policies\\Implementation\\SecretPolicyService.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\Policies\\Implementation\\SecretPolicyService.cs",
+              "RelativeToolTip": "Services\\Services\\Policies\\Implementation\\SecretPolicyService.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAYwIQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:16:55.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ISecretPolicyService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\Policies\\Interface\\ISecretPolicyService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\Policies\\Interface\\ISecretPolicyService.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\Policies\\Interface\\ISecretPolicyService.cs",
+              "RelativeToolTip": "Services\\Services\\Policies\\Interface\\ISecretPolicyService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T17:53:33.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Auth\\Program.cs",
+              "RelativeDocumentMoniker": "Encryptarium.Auth\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Auth\\Program.cs",
+              "RelativeToolTip": "Encryptarium.Auth\\Program.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAlwFcAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:10:44.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IAccessTokenService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\Tokens\\Interface\\IAccessTokenService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\Tokens\\Interface\\IAccessTokenService.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\Tokens\\Interface\\IAccessTokenService.cs",
+              "RelativeToolTip": "Services\\Services\\Tokens\\Interface\\IAccessTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T05:47:56.512Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "SecretContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\DAL\\SecretContext.cs",
+              "RelativeDocumentMoniker": "DAL\\SecretContext.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\DAL\\SecretContext.cs",
+              "RelativeToolTip": "DAL\\SecretContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T08:41:22.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "SecretPolicyController.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Access\\Controllers\\SecretPolicyController.cs",
+              "RelativeDocumentMoniker": "Encryptarium.Access\\Controllers\\SecretPolicyController.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Access\\Controllers\\SecretPolicyController.cs",
+              "RelativeToolTip": "Encryptarium.Access\\Controllers\\SecretPolicyController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T18:08:42.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ControllersEnum.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Model\\Enums\\ControllersEnum.cs",
+              "RelativeDocumentMoniker": "Model\\Enums\\ControllersEnum.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Model\\Enums\\ControllersEnum.cs",
+              "RelativeToolTip": "Model\\Enums\\ControllersEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T07:00:21.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "MicroservicesEnum.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Model\\Enums\\MicroservicesEnum.cs",
+              "RelativeDocumentMoniker": "Model\\Enums\\MicroservicesEnum.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Model\\Enums\\MicroservicesEnum.cs",
+              "RelativeToolTip": "Model\\Enums\\MicroservicesEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T07:02:39.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "StatusCodeEnum.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Model\\Enums\\StatusCodeEnum.cs",
+              "RelativeDocumentMoniker": "Model\\Enums\\StatusCodeEnum.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Model\\Enums\\StatusCodeEnum.cs",
+              "RelativeToolTip": "Model\\Enums\\StatusCodeEnum.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T07:03:28.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "CorsMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Audit\\Middlewares\\CorsMiddleware.cs",
+              "RelativeDocumentMoniker": "Encryptarium.Audit\\Middlewares\\CorsMiddleware.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Audit\\Middlewares\\CorsMiddleware.cs",
+              "RelativeToolTip": "Encryptarium.Audit\\Middlewares\\CorsMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T08:20:06.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Audit\\Program.cs",
+              "RelativeDocumentMoniker": "Encryptarium.Audit\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Audit\\Program.cs",
+              "RelativeToolTip": "Encryptarium.Audit\\Program.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAIBJwGsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T09:10:27.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "DeleteUserInGroupRoleDTO.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Access\\Entities\\DTOs\\DeleteUserInGroupRoleDTO.cs",
+              "RelativeDocumentMoniker": "Encryptarium.Access\\Entities\\DTOs\\DeleteUserInGroupRoleDTO.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Access\\Entities\\DTOs\\DeleteUserInGroupRoleDTO.cs",
+              "RelativeToolTip": "Encryptarium.Access\\Entities\\DTOs\\DeleteUserInGroupRoleDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T07:25:37.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "MonitoringAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Auth\\Attributes\\MonitoringAttribute.cs",
+              "RelativeDocumentMoniker": "Encryptarium.Auth\\Attributes\\MonitoringAttribute.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Encryptarium.Auth\\Attributes\\MonitoringAttribute.cs",
+              "RelativeToolTip": "Encryptarium.Auth\\Attributes\\MonitoringAttribute.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T16:26:03.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "SecretService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\Secrets\\Implementation\\SecretService.cs",
+              "RelativeDocumentMoniker": "Services\\Services\\Secrets\\Implementation\\SecretService.cs",
+              "ToolTip": "C:\\Users\\\u0434\u0438\u043C\u043E\u043D\\Desktop\\\u042F\\\u0443\u0447\u0451\u0431\u0430\\\u0414\u0418\u041F\u041B\u041E\u041C\\rep\\Encryptarium\\Encryptarium\\Services\\Services\\Secrets\\Implementation\\SecretService.cs",
+              "RelativeToolTip": "Services\\Services\\Secrets\\Implementation\\SecretService.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAvwDQAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T18:35:00.289Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 87,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3822e751-eb69-4b0e-b301-595a9e4c74d5}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 86,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c93a910a-0fa6-4307-93a4-f2bd61ec7828}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cf7341e6-9713-4309-bea6-cdb743e1804d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

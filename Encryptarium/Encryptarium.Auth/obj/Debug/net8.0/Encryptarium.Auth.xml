@@ -1,0 +1,138 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Encryptarium.Auth</name>
+    </assembly>
+    <members>
+        <member name="T:Encryptarium.Auth.Controllers.ApiKeyController">
+            <summary>
+            Контроллер для авторизации через API-Key
+            </summary>
+        </member>
+        <member name="M:Encryptarium.Auth.Controllers.ApiKeyController.CreateApiKey(System.Nullable{System.Guid},System.String)">
+            <summary>
+            Создание ключа
+            </summary>
+            <param name="userUid">Для админа, который будет настраивать вход для других</param>
+            <returns></returns>
+        </member>
+        <member name="M:Encryptarium.Auth.Controllers.ApiKeyController.LoginWithApiKey(System.String)">
+            <summary>
+            Авторизация через ключ
+            </summary>
+            <param name="key">Ключ</param>
+            <returns></returns>
+        </member>
+        <member name="M:Encryptarium.Auth.Controllers.ApiKeyController.GetApiKeysByUserUid(System.Guid)">
+            <summary>
+            Получение всех апи ключей пользователя
+            </summary>
+            <param name="userUid"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Encryptarium.Auth.Controllers.ApiKeyController.RefreshApiMyKey">
+            <summary>
+            Обновление своего ключа
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Encryptarium.Auth.Controllers.ApiKeyController.RefreshApiKeyForUsers(System.Collections.Generic.List{System.Guid})">
+            <summary>
+            Обновление ключа некоторым пользователям
+            </summary>
+            <param name="uidUsers">Для админа, который будет настраивать вход для других</param>
+            <returns></returns>
+        </member>
+        <member name="M:Encryptarium.Auth.Controllers.ApiKeyController.RefreshApiKeyAllUsers">
+            <summary>
+            Обновление ключа всем пользователям
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Encryptarium.Auth.Controllers.ApiKeyController.DeactivedApiKey(System.Guid,System.Nullable{System.Boolean})">
+            <summary>
+            Деактивация ключа
+            </summary>
+            <param name="apiKeyUid">UID апи ключа</param>
+            <param name="isAll">Деактивировать всем, при утечке данных</param>
+            <returns></returns>
+        </member>
+        <member name="M:Encryptarium.Auth.Controllers.ApiKeyController.DeactivedApiKeyByUsers(System.Collections.Generic.List{System.Guid},System.Nullable{System.Boolean})">
+            <summary>
+            Деактивация ключей(Устарел)
+            </summary>
+            <param name="uidUsers">Для админа, который будет настраивать вход для других</param>
+            <param name="isAll">Деактивировать всем, при утечке данных</param>
+            <returns></returns>
+        </member>
+        <member name="M:Encryptarium.Auth.Controllers.ApiKeyController.DeleteApiKey">
+            <summary>
+            Удаление ключ(не сделано)
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Encryptarium.Auth.Controllers.RefreshTokenController">
+            <summary>
+            Контроллер CRUD для управления refresh токенами, только для админов
+            </summary>
+        </member>
+        <member name="T:Encryptarium.Auth.Controllers.TokenController">
+            <summary>
+            Контроллер для обновления токенов JWT
+            </summary>
+        </member>
+        <member name="M:Encryptarium.Auth.Controllers.TokenController.RefreshToken">
+            <summary>
+            Обновление access и refresh токена
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Encryptarium.Auth.Controllers.UserPassController">
+            <summary>
+            Контроллер для авторизации через UserPass
+            </summary>
+        </member>
+        <member name="M:Encryptarium.Auth.Controllers.UserPassController.Login(Encryptarium.Auth.Entities.DTOs.UserpassDTO)">
+            <summary>
+            Авторизация логин и пароль, отправка кода на email
+            </summary>
+            <param name="userpassDTO">DTO для входа через логин и пароль</param>
+            <returns></returns>
+        </member>
+        <member name="M:Encryptarium.Auth.Controllers.UserPassController.VerifyCode(Encryptarium.Auth.Entities.DTOs.VerifyCodeDTO)">
+            <summary>
+            Верификация кода из email, получение токенов
+            </summary>
+            <param name="verifyCodeDTO">DTO для верификации кода</param>
+            <returns></returns>
+        </member>
+        <member name="M:Encryptarium.Auth.Controllers.UserPassController.Registration(Encryptarium.Auth.Entities.DTOs.RegistrationDTO)">
+            <summary>
+            Регистрация пользователя через логин и пароль
+            </summary>
+            <param name="registrationDTO">DTO для регистрации пользователя через логин/пароль</param>
+            <returns></returns>
+        </member>
+        <member name="M:Encryptarium.Auth.Controllers.UserPassController.Test">
+            <summary>
+            Тестовый метод для проверки
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Encryptarium.Auth.Controllers.WhiteIpController">
+            <summary>
+            Контроллер для управления IP адресами, только для админов
+            </summary>
+        </member>
+        <member name="P:Encryptarium.Auth.Entities.DTOs.WhiteListIpDTO.Ip">
+            <summary>
+            Ip адрес устройства, с которого можно использовать ключ api
+            </summary>
+        </member>
+        <member name="P:Encryptarium.Auth.Entities.DTOs.WhiteListIpDTO.ApiKeyUid">
+            <summary>
+            Идентификатор api-ключа 
+            </summary>
+        </member>
+    </members>
+</doc>

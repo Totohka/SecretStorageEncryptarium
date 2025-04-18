@@ -1,0 +1,464 @@
+[
+  {
+    "ContainingType": "Encryptarium.Auth.Controllers.OAuthController",
+    "Method": "GitHubGetCode",
+    "RelativePath": "api/OAuth/GitHubGetCode",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "code",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Auth.Controllers.ApiKeyController",
+    "Method": "CreateApiKey",
+    "RelativePath": "api/v1/ApiKey/CreateApiKey",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userUid",
+        "Type": "System.Nullable\u00601[[System.Guid, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "name",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Auth.Controllers.ApiKeyController",
+    "Method": "DeactivedApiKey",
+    "RelativePath": "api/v1/ApiKey/DeactivedApiKey",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "apiKeyUid",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "isAll",
+        "Type": "System.Nullable\u00601[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Auth.Controllers.ApiKeyController",
+    "Method": "DeactivedApiKeyByUsers",
+    "RelativePath": "api/v1/ApiKey/DeactivedApiKeyByUsers",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "uidUsers",
+        "Type": "System.Collections.Generic.List\u00601[[System.Guid, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      },
+      {
+        "Name": "isAll",
+        "Type": "System.Nullable\u00601[[System.Boolean, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Auth.Controllers.ApiKeyController",
+    "Method": "DeleteApiKey",
+    "RelativePath": "api/v1/ApiKey/DeleteApiKey",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Auth.Controllers.ApiKeyController",
+    "Method": "GetApiKeysByUserUid",
+    "RelativePath": "api/v1/ApiKey/GetApiKeysByUserUid",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userUid",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Auth.Controllers.ApiKeyController",
+    "Method": "LoginWithApiKey",
+    "RelativePath": "api/v1/ApiKey/LoginWithApiKey",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "key",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Auth.Controllers.ApiKeyController",
+    "Method": "RefreshApiKeyAllUsers",
+    "RelativePath": "api/v1/ApiKey/RefreshApiKeyAllUsers",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Auth.Controllers.ApiKeyController",
+    "Method": "RefreshApiKeyForUsers",
+    "RelativePath": "api/v1/ApiKey/RefreshApiKeyForUsers",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "uidUsers",
+        "Type": "System.Collections.Generic.List\u00601[[System.Guid, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Auth.Controllers.ApiKeyController",
+    "Method": "RefreshApiMyKey",
+    "RelativePath": "api/v1/ApiKey/RefreshApiMyKey",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Auth.Controllers.RefreshTokenController",
+    "Method": "GetAllRefreshToken",
+    "RelativePath": "api/v1/RefreshToken",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Auth.Controllers.RefreshTokenController",
+    "Method": "CreateRefreshToken",
+    "RelativePath": "api/v1/RefreshToken",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Auth.Controllers.RefreshTokenController",
+    "Method": "GetRefreshToken",
+    "RelativePath": "api/v1/RefreshToken/{uid}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "uid",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Auth.Controllers.RefreshTokenController",
+    "Method": "DeactivedRefreshToken",
+    "RelativePath": "api/v1/RefreshToken/{uid}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "uid",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Auth.Controllers.RefreshTokenController",
+    "Method": "DeleteRefreshToken",
+    "RelativePath": "api/v1/RefreshToken/{uid}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "uid",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Auth.Controllers.TokenController",
+    "Method": "RefreshToken",
+    "RelativePath": "api/v1/Token/RefreshToken",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Auth.Controllers.UserPassController",
+    "Method": "Test",
+    "RelativePath": "api/v1/UserPass",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Auth.Controllers.UserPassController",
+    "Method": "Login",
+    "RelativePath": "api/v1/UserPass/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userpassDTO",
+        "Type": "Encryptarium.Auth.Entities.DTOs.UserpassDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Auth.Controllers.UserPassController",
+    "Method": "Registration",
+    "RelativePath": "api/v1/UserPass/Registration",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "registrationDTO",
+        "Type": "Encryptarium.Auth.Entities.DTOs.RegistrationDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Auth.Controllers.UserPassController",
+    "Method": "VerifyCode",
+    "RelativePath": "api/v1/UserPass/VerifyCode",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "verifyCodeDTO",
+        "Type": "Encryptarium.Auth.Entities.DTOs.VerifyCodeDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Auth.Controllers.WhiteIpController",
+    "Method": "GetAllIp",
+    "RelativePath": "api/v1/WhiteIp",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Auth.Controllers.WhiteIpController",
+    "Method": "CreateIp",
+    "RelativePath": "api/v1/WhiteIp",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createWhiteListIpDTO",
+        "Type": "Encryptarium.Auth.Entities.DTOs.WhiteListIpDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Auth.Controllers.WhiteIpController",
+    "Method": "GetIp",
+    "RelativePath": "api/v1/WhiteIp/{uid}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "uid",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Auth.Controllers.WhiteIpController",
+    "Method": "DeactivedIp",
+    "RelativePath": "api/v1/WhiteIp/deactivate/{uid}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "uid",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Auth.Controllers.WhiteIpController",
+    "Method": "DeleteIpByIp",
+    "RelativePath": "api/v1/WhiteIp/delete/ip/{ip}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ip",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Auth.Controllers.WhiteIpController",
+    "Method": "DeleteIpByUid",
+    "RelativePath": "api/v1/WhiteIp/delete/uid/{uid}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "uid",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Auth.Controllers.WhiteIpController",
+    "Method": "UpdateWhiteIp",
+    "RelativePath": "api/v1/WhiteIp/edit/{uid}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "uid",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "whiteListIp",
+        "Type": "Encryptarium.Auth.Entities.DTOs.WhiteListIpDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Auth.Controllers.WhiteIpController",
+    "Method": "UpdateIp",
+    "RelativePath": "api/v1/WhiteIp/edit/ip/{uid}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "uid",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "ip",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Auth.Controllers.WhiteIpController",
+    "Method": "UpdateIpApiKeyUid",
+    "RelativePath": "api/v1/WhiteIp/edit/key/{uid}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "uid",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "apiKeyUid",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Encryptarium.Auth.Controllers.WhiteIpController",
+    "Method": "GetIpByApiKey",
+    "RelativePath": "api/v1/WhiteIp/GetIpByApiKey",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "apiKeyUid",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Encryptarium.Gateway.props" />
+</Project>

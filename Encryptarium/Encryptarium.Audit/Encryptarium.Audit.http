@@ -1,0 +1,6 @@
+@Encryptarium.Audit_HostAddress = http://localhost:5157
+
+GET {{Encryptarium.Audit_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

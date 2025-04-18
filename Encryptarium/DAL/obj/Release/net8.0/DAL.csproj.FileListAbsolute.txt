@@ -1,0 +1,16 @@
+C:\Users\димон\Desktop\Я\учёба\ДИПЛОМ\rep\Encryptarium\Encryptarium\DAL\bin\Release\net8.0\DAL.deps.json
+C:\Users\димон\Desktop\Я\учёба\ДИПЛОМ\rep\Encryptarium\Encryptarium\DAL\bin\Release\net8.0\DAL.dll
+C:\Users\димон\Desktop\Я\учёба\ДИПЛОМ\rep\Encryptarium\Encryptarium\DAL\bin\Release\net8.0\DAL.pdb
+C:\Users\димон\Desktop\Я\учёба\ДИПЛОМ\rep\Encryptarium\Encryptarium\DAL\bin\Release\net8.0\Model.dll
+C:\Users\димон\Desktop\Я\учёба\ДИПЛОМ\rep\Encryptarium\Encryptarium\DAL\bin\Release\net8.0\Model.pdb
+C:\Users\димон\Desktop\Я\учёба\ДИПЛОМ\rep\Encryptarium\Encryptarium\DAL\obj\Release\net8.0\DAL.csproj.AssemblyReference.cache
+C:\Users\димон\Desktop\Я\учёба\ДИПЛОМ\rep\Encryptarium\Encryptarium\DAL\obj\Release\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\димон\Desktop\Я\учёба\ДИПЛОМ\rep\Encryptarium\Encryptarium\DAL\obj\Release\net8.0\DAL.AssemblyInfoInputs.cache
+C:\Users\димон\Desktop\Я\учёба\ДИПЛОМ\rep\Encryptarium\Encryptarium\DAL\obj\Release\net8.0\DAL.AssemblyInfo.cs
+C:\Users\димон\Desktop\Я\учёба\ДИПЛОМ\rep\Encryptarium\Encryptarium\DAL\obj\Release\net8.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\димон\Desktop\Я\учёба\ДИПЛОМ\rep\Encryptarium\Encryptarium\DAL\obj\Release\net8.0\DAL.sourcelink.json
+C:\Users\димон\Desktop\Я\учёба\ДИПЛОМ\rep\Encryptarium\Encryptarium\DAL\obj\Release\net8.0\DAL.csproj.Up2Date
+C:\Users\димон\Desktop\Я\учёба\ДИПЛОМ\rep\Encryptarium\Encryptarium\DAL\obj\Release\net8.0\DAL.dll
+C:\Users\димон\Desktop\Я\учёба\ДИПЛОМ\rep\Encryptarium\Encryptarium\DAL\obj\Release\net8.0\refint\DAL.dll
+C:\Users\димон\Desktop\Я\учёба\ДИПЛОМ\rep\Encryptarium\Encryptarium\DAL\obj\Release\net8.0\DAL.pdb
+C:\Users\димон\Desktop\Я\учёба\ДИПЛОМ\rep\Encryptarium\Encryptarium\DAL\obj\Release\net8.0\ref\DAL.dll

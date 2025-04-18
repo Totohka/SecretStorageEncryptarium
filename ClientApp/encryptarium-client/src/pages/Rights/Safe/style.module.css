@@ -1,0 +1,17 @@
+.module_container{
+    display: flex;
+    font-size: 14px;
+    border: 1px solid #868686;
+    padding: 0;
+    text-align: left;
+    /* margin-top: 15px; */
+    align-items: flex-start;
+    height: 24vh;
+    /* height: max-content; */
+}
+.box{
+    width:30%;
+}
+.module_container div{
+    padding:0 5px;
+}
