@@ -1,0 +1,40 @@
+.safe_grid {
+    background-color: #4D4B53;
+    width: 75%;
+    color: #FFFFFF;
+    border-radius: 10px;
+    margin-bottom: 15px;
+
+}
+.value{
+    padding-left: 35px;
+}
+.header{
+    font-size: 14px;
+    padding-left: 35px;
+}
+.safe_name{
+    width: 20%;
+    padding-left: 0;
+}
+.safe_description{
+    width: 35%;
+}
+.safe_date_create{
+    width: 20%;
+}
+.safe_status{
+    width: 25%;
+    padding-right: 35px;
+}
+
+
+.enum_colored{
+    border-radius: 10px 10px 0 0;
+    background: #222028;
+}
+
+.safe_enum{
+    display: flex;
+    padding: 10px;
+}

@@ -1,0 +1,15 @@
+.module_container{
+    display: flex;
+    border-left: 1px solid #868686;
+    /* padding: 5px 0; */
+    /* margin-top: 15px; */
+    align-items: flex-start;
+}
+
+.module_right{
+    border-left: 1px solid #868686;
+    /* padding: 5px 0; */
+    /* margin-top: 15px; */
+    width: 20vh;
+    height:100%;
+}

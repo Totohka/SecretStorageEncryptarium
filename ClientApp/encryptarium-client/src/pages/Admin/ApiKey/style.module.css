@@ -1,0 +1,56 @@
+.main_container_key{
+    display: flex;
+    justify-content: center;
+    flex-grow: 1;
+}
+
+.title_key{
+    border: solid 1px black;
+    background: #4d4b53;
+    color: white;
+    /* width: 30%; */
+}
+.column_ip_key{
+    width: 20%;
+}
+.column_api_key{
+    width: 36%;
+    border-right: 1px solid black;
+}
+.column_user_key{
+    width: 42%;
+    border-right: 1px solid black;
+}
+.cell_key{
+    border-bottom: solid 1px black;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 10px;
+}
+.api_cell_key{
+    border-bottom: solid 1px black;
+}
+.active_cell_key{
+    background-color: rgb(169, 169, 169);
+}
+.api_cell{
+    display: flex;
+    padding: 10px;
+}
+.api_cell_text{
+    font-size: 0.9em;
+    text-align: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    flex-grow: 1;
+}
+.api_cell_icon{
+    height:0.9em;
+    width:0.9em;
+}
+.colored{
+    background-color: rgb(109, 108, 111);
+    color: white;
+}

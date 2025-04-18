@@ -1,0 +1,20 @@
+<svg width="46.000000" height="46.000000" viewBox="0 0 46 46" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip29_334">
+			<rect id="Текст справа 1" width="46.000000" height="46.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip29_334)">
+		<rect id="rect" x="5.750000" y="5.750000" rx="3.000000" width="34.500000" height="34.500000" fill="#000000" fill-opacity="0"/>
+		<rect id="rect" x="5.750000" y="5.750000" rx="3.000000" width="34.500000" height="34.500000" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round"/>
+		<path id="path" d="M21.1 23.73L21.08 23.75C20.66 23.75 20.33 23.41 20.33 23C20.33 22.58 20.66 22.25 21.08 22.25L21.1 22.27L21.1 23.73ZM32.56 22.27L32.58 22.25C33 22.25 33.33 22.58 33.33 23C33.33 23.41 33 23.75 32.58 23.75L32.56 23.73L32.56 22.27Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+		<path id="path" d="M21.08 23L32.58 23" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="path" d="M13.43 15.1L13.41 15.12C12.99 15.12 12.66 14.79 12.66 14.37C12.66 13.95 12.99 13.62 13.41 13.62L13.43 13.64L13.43 15.1ZM32.56 13.64L32.58 13.62C33 13.62 33.33 13.95 33.33 14.37C33.33 14.79 33 15.12 32.58 15.12L32.56 15.1L32.56 13.64Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+		<path id="path" d="M13.41 14.37L32.58 14.37" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="path" d="M15.35 32.35L15.33 32.37C14.91 32.37 14.58 32.04 14.58 31.62C14.58 31.2 14.91 30.87 15.33 30.87L15.35 30.89L15.35 32.35ZM32.56 30.89L32.58 30.87C33 30.87 33.33 31.2 33.33 31.62C33.33 32.04 33 32.37 32.58 32.37L32.56 32.35L32.56 30.89Z" fill="#000000" fill-opacity="0" fill-rule="nonzero"/>
+		<path id="path" d="M15.33 31.62L32.58 31.62" stroke="#FFFFFF" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+	</g>
+</svg>
