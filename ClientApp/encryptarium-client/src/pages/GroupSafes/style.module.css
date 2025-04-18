@@ -1,0 +1,124 @@
+.container_component{
+    display: flex;
+    width: 100%;
+    height: -webkit-fill-available;
+    justify-content: center;
+}
+
+.column_invite_user{
+    margin-top: 25px;
+    padding: 10px;
+    width: 24%;
+    border-right: 1px solid black;
+}
+.column_right_invite_user{
+    margin-top: 25px;
+    padding: 10px;
+    width: 25%;
+}
+.body_invite_user{
+    margin-top: 10px;
+}
+.cell_invite_users{
+    display: flex
+    ;
+        justify-content: space-between;
+        align-items: center;
+        /* background-color: #bdc1cd; */
+        border-bottom: 1px solid black;
+        /* color: white; */
+        padding: 0 5px;
+        padding-top: 5px;
+        font-size: 14px;
+        text-align: left;
+        /* margin-top: 5px; */
+}
+.taken{
+    color: white;
+    border-color: white;
+    background-color: #434249;
+}
+.column_search_users{
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    /* align-items: center; */
+    width: 20%;
+    border-right: 1px solid black;
+}
+.column_main_settings{
+    margin-top: 25px;
+    width: 20%;
+    padding: 10px;
+    border-right: 1px solid black;
+}
+.body_search_users{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    /* width: 90%; */
+    margin-top: -5px;
+    padding: 0 5px;
+    align-items: center;
+}
+.cell_search_users{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 5px 5px;
+    /* border: 1px solid black; */
+    color: white;
+    width: 92%;
+    background-color: #434249;
+}
+.cell_search_users p{
+    font-size: 14px;
+    margin:0;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    text-align:left;
+}
+
+.cell_search_users:hover{
+    background-color: rgb(56, 55, 60);
+}
+.button_container{
+    margin-top: 25px;
+}
+.all_container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 74vh;
+    width: 100%;
+}
+.buttons{
+    border-bottom: 1px solid #868686;
+    margin: 15px 25px;
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+}
+.button{
+    font-family: inherit;
+    font-size: 18px;
+    width: 48%;
+    border: none;
+    background-color: #D1D6E4;
+}
+.button:hover, .active{
+    border-bottom: 3px solid #868686;
+}
+.header_rights{
+    font-size:14px;
+}
+.block_rights{
+    margin-top:10px;
+    margin-bottom:20px;
+}
+.bordered{
+    border-bottom:1px solid black;
+}

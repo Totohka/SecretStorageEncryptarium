@@ -1,0 +1,8 @@
+.auditSecretModule{
+    border-bottom: 3px solid #868686;
+}
+
+.container_button_last_element{
+    display: flex;
+    justify-content: space-between;
+}
